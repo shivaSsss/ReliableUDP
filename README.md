@@ -18,10 +18,10 @@ o Compile both server and client using GCC:
 o Running:
 
     Start the server:
-   ./udp_serv <port>
+     ./udp_serv <port>
    
-   Example:
-   ./udp_serv 1000
+    Example:
+     ./udp_serv 1000
 
    Run the client:
    ./rudp_client <server_ip> <server_port> <payload_length> <num_frames>
