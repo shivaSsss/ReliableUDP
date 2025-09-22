@@ -23,8 +23,8 @@ o Running:
     Example:
      ./udp_serv 1000
 
-   Run the client:
-   ./rudp_client <server_ip> <server_port> <payload_length> <num_frames>
+    Run the client:
+     ./rudp_client <server_ip> <server_port> <payload_length> <num_frames>
 
-  Example:
-  ./rudp_client 127.0.0.1 1000 64 1000000
+    Example:
+     ./rudp_client 127.0.0.1 1000 64 1000000
